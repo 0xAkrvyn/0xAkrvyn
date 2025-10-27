@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/hunter0x63/hunter0x63/blob/main/banner.png" alt="Cybersecurity Banner" />
+  <img src="https://github.com/0xAkrvyn/0xAkrvyn/blob/main/banner.png" alt="Cybersecurity Banner" />
 </p>
 
 <h1 align="center">🛡️ Robiul Islam Akash</h1>
@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunter0x63&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xAkrvyn&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter0x63&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
@@ -71,4 +71,4 @@
 ---
 
 > 💬 “Hack the planet. Secure the future.”  
-> — Robiul Islam Akash (`hunter0x63`)
+> — Robiul Islam Akash (`oxAkrvyn`)
