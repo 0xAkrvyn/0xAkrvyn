@@ -37,10 +37,10 @@
 
 | 🧪 Project | ⚙️ Description |
 |-----------|----------------|
-| [`OSINT Toolkit`](https://github.com/hunter0x63/osint-toolkit) | Modular CLI-based framework for open-source intelligence gathering |
-| [`AutoReconBot`](https://github.com/hunter0x63/AutoReconBot) | Automated network scanner + live vuln detector |
-| [`AI-Threat-Classifier`](https://github.com/hunter0x63/ai-threat-classifier) | Uses AI to detect and classify threats from logs |
-| [`Payload-Hub`](https://github.com/hunter0x63/payload-hub) | A curated repo of XSS, LFI, RCE payloads with usage guides |
+| [`OSINT Toolkit`](https://github.com/0xAkrvyn/osint-toolkit) | Modular CLI-based framework for open-source intelligence gathering |
+| [`AutoReconBot`](https://github.com/0xAkrvyn/AutoReconBot) | Automated network scanner + live vuln detector |
+| [`AI-Threat-Classifier`](https://github.com/0xAkrvyn/ai-threat-classifier) | Uses AI to detect and classify threats from logs |
+| [`Payload-Hub`](https://github.com/0xAkrvyn/payload-hub) | A curated repo of XSS, LFI, RCE payloads with usage guides |
 
 ---
 
@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xAkrvyn&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter0x63&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xAkrvyn&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
